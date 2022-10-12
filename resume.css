@@ -10,7 +10,7 @@ body{
 	margin: 0px; padding: 0px; font-family: 'Montserrat', sans-serif;
 }
 .head{
-	background-color: #c2ffa9;
+	background-color: #3cb371;
 	padding: 10px;
 	color: #030303;
 	text-align: left;
@@ -161,7 +161,7 @@ h2{
 	letter-spacing: 0px;
 	margin-top: 10px;
 	color: #5a5959;
-	background-color: Violet;
+	background-color: SlateBlue;
 }
 .p3 span{
 	color: whitesmoke; padding-left: 20px;
