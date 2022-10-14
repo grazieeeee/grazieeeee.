@@ -66,10 +66,10 @@ body{
 }
 .heading::after{
 	content: '';
-	position: absolute;
+	position:relative;
 	width: 21px;
 	height: 18px;
-	background-color: #5a5959;
+	background-color: #6f002f;
 	left: 191px;
 	top: 26px;
 	transform:rotate(56deg);
