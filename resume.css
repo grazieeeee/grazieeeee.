@@ -1,7 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 body{
-	background-image: linear-gradient(#ffd5ffda, #ffa6ff);
+	background-image: linear-gradient(#f0f0f0, #f9f9f9);
 	height: 122vh;
 	font-weight: bold;
 	letter-spacing: 2px;
@@ -13,7 +13,7 @@ body{
 	background-color: #85524e;
 	padding: 10px;
 	color: #030303;
-	text-align: left;
+	text-align: center;
 	text-align: center;
 	border: 5px solid #6f552f;
 	width: 65%;
@@ -30,7 +30,7 @@ body{
 	top: 60%;
 }
 .left{
-	background-color: rgb(120, 120, 120);
+	background-color: rgb(197, 134, 105);
 	width: 200px;
 	height: 100%;
 	float: left;
@@ -93,31 +93,35 @@ body{
 	text-align: right;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	color: white;
+	color: rgb(255, 165, 0);
 }
-.html{
+.ADAPTIBILITY{
 	width: 85%;
-	background-color: white;
+	background-color: yellowgreen;
 }
-.css{
+.EMOTIONAL{
 	width: 75%;
-	background-color: rgba(255, 255, 255, 0.377);
+	background-color: rgb(170, 247, 69);
 }
-.js{
+.TEAMWORK{
 	width: 50%;
-	background-color: gray;
+	background-color: PURPLE;
 }
-.jquery{
+.RESPONSIBLE{
 	width: 30%;
-	background-color: gray;
+	background-color: BLUE;
 }
-.web {
+.FLEXIBLE {
 	width: 85%;
-	background-color:gray;
+	background-color:ORANGE;
 }
-.gra{
+.MOTIVATION{
 	width: 70%;
-	background-color: gray;
+	background-color: lightcoral;
+}
+.DISCIPLINE{
+	width: 70%;
+	background-color: maroon;
 }
 .icons2{
 	padding: 18px 10px;
