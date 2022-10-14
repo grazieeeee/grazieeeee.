@@ -13,7 +13,7 @@ body{
 	background-color: #85524e;
 	padding: 10px;
 	color: #030303;
-	text-align: center;
+	text-align: left;
 	text-align: center;
 	border: 5px solid #6f552f;
 	width: 65%;
@@ -29,15 +29,15 @@ body{
 	left: 50%;
 	top: 60%;
 }
-.center{
+.lift{
 	background-color: rgb(224, 191, 180);
 	width: 200px;
 	height: 100%;
-	float: center;
+	float: lift;
 }
-.center{
+.right{
 	width: 550px;
-	float: center;
+	float: right;
 }
 .profile img{
 	height: 180px;
@@ -148,6 +148,16 @@ body{
 	line-height: 18px;
 	margin-top: 5px;
 }
+
+.p3{
+	font-size: 12px;
+	font-weight: 300;
+	letter-spacing: 1px;
+	word-spacing: 2px;
+	line-height: 18px;
+	margin-top: 5px;
+}
+
 h2{
 	font-size: 18px;
 	margin-bottom: 15px;
